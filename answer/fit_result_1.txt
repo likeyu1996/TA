@@ -1,0 +1,295 @@
+ This problem is unconstrained.
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            8     M =           12
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f= -2.48203D+00    |proj g|=  3.78510D-01
+
+At iterate    5    f= -2.48205D+00    |proj g|=  7.96757D-02
+
+At iterate   10    f= -2.48207D+00    |proj g|=  1.35062D-02
+
+At iterate   15    f= -2.48208D+00    |proj g|=  2.01883D-04
+
+At iterate   20    f= -2.48208D+00    |proj g|=  4.98268D-05
+
+At iterate   25    f= -2.48208D+00    |proj g|=  6.17595D-04
+
+At iterate   30    f= -2.48208D+00    |proj g|=  3.89710D-03
+
+At iterate   35    f= -2.48208D+00    |proj g|=  2.26792D-03
+
+At iterate   40    f= -2.48208D+00    |proj g|=  4.78728D-05
+
+At iterate   45    f= -2.48208D+00    |proj g|=  5.05018D-04
+
+At iterate   50    f= -2.48208D+00    |proj g|=  8.21565D-06
+
+At iterate   55    f= -2.48208D+00    |proj g|=  1.05249D-05
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    8     58     76      1     0     0   4.921D-05  -2.482D+00
+  F =  -2.48207673148861     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+ This problem is unconstrained.
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            9     M =           12
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f= -2.93835D+00    |proj g|=  6.02425D-01
+
+At iterate    5    f= -2.93842D+00    |proj g|=  4.40765D-01
+
+At iterate   10    f= -2.93852D+00    |proj g|=  3.05808D-02
+
+At iterate   15    f= -2.93857D+00    |proj g|=  4.72396D-01
+
+At iterate   20    f= -2.93996D+00    |proj g|=  2.52128D-01
+
+At iterate   25    f= -2.94014D+00    |proj g|=  1.46378D-02
+
+At iterate   30    f= -2.94016D+00    |proj g|=  2.86939D-01
+
+At iterate   35    f= -2.94110D+00    |proj g|=  9.38927D-01
+
+At iterate   40    f= -2.94141D+00    |proj g|=  1.71302D-02
+
+At iterate   45    f= -2.94223D+00    |proj g|=  1.98567D-01
+
+At iterate   50    f= -2.94341D+00    |proj g|=  1.36057D-01
+
+At iterate   55    f= -2.94381D+00    |proj g|=  3.87036D-01
+
+At iterate   60    f= -2.94389D+00    |proj g|=  3.08998D-02
+
+At iterate   65    f= -2.94435D+00    |proj g|=  9.51542D-02
+
+At iterate   70    f= -2.94442D+00    |proj g|=  7.63625D-03
+
+At iterate   75    f= -2.94442D+00    |proj g|=  9.19496D-03
+
+At iterate   80    f= -2.94444D+00    |proj g|=  1.11187D-01
+
+At iterate   85    f= -2.94445D+00    |proj g|=  2.84697D-03
+
+At iterate   90    f= -2.94445D+00    |proj g|=  4.09006D-04
+
+At iterate   95    f= -2.94445D+00    |proj g|=  1.81076D-02
+
+At iterate  100    f= -2.94445D+00    |proj g|=  2.47988D-03
+
+At iterate  105    f= -2.94445D+00    |proj g|=  1.33493D-03
+
+At iterate  110    f= -2.94445D+00    |proj g|=  7.47185D-03
+
+At iterate  115    f= -2.94446D+00    |proj g|=  1.70466D-02
+
+At iterate  120    f= -2.94446D+00    |proj g|=  2.85967D-03
+
+At iterate  125    f= -2.94446D+00    |proj g|=  3.27826D-02
+
+At iterate  130    f= -2.94476D+00    |proj g|=  1.32506D-01
+
+At iterate  135    f= -2.94614D+00    |proj g|=  1.10777D+00
+
+At iterate  140    f= -2.94760D+00    |proj g|=  1.91145D-02
+
+At iterate  145    f= -2.94811D+00    |proj g|=  1.69206D-01
+
+At iterate  150    f= -2.94897D+00    |proj g|=  3.56681D-01
+
+At iterate  155    f= -2.94905D+00    |proj g|=  2.66176D-02
+
+At iterate  160    f= -2.94913D+00    |proj g|=  8.78728D-03
+
+At iterate  165    f= -2.94918D+00    |proj g|=  1.24602D-01
+
+At iterate  170    f= -2.94919D+00    |proj g|=  1.11355D-03
+
+At iterate  175    f= -2.94919D+00    |proj g|=  1.30003D-03
+
+At iterate  180    f= -2.94919D+00    |proj g|=  4.90497D-04
+
+At iterate  185    f= -2.94919D+00    |proj g|=  3.31735D-04
+
+At iterate  190    f= -2.94919D+00    |proj g|=  2.81455D-03
+
+At iterate  195    f= -2.94919D+00    |proj g|=  1.61657D-03
+
+At iterate  200    f= -2.94919D+00    |proj g|=  3.70441D-03
+
+At iterate  205    f= -2.94919D+00    |proj g|=  1.27249D-03
+
+At iterate  210    f= -2.94919D+00    |proj g|=  1.09890D-03
+
+At iterate  215    f= -2.94919D+00    |proj g|=  2.25997D-03
+
+At iterate  220    f= -2.94919D+00    |proj g|=  4.89386D-04
+
+At iterate  225    f= -2.94919D+00    |proj g|=  2.66898D-04
+
+At iterate  230    f= -2.94919D+00    |proj g|=  4.97513D-04
+
+At iterate  235    f= -2.94919D+00    |proj g|=  1.31450D-05
+
+At iterate  240    f= -2.94919D+00    |proj g|=  7.10987D-05
+
+At iterate  245    f= -2.94919D+00    |proj g|=  9.68559D-05
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    9    246    309      1     0     0   6.608D-05  -2.949D+00
+  F =  -2.94918839129873     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+ This problem is unconstrained.
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            2     M =           12
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f= -2.25109D+00    |proj g|=  2.32703D-05
+
+At iterate    5    f= -2.25109D+00    |proj g|=  8.88178D-08
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    2      6     11      1     0     0   3.819D-06  -2.251D+00
+  F =  -2.25108904315405     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+                              ARMA Model Results                              
+==============================================================================
+Dep. Variable:                      y   No. Observations:                  692
+Model:                     ARMA(6, 1)   Log Likelihood                1717.597
+Method:                       css-mle   S.D. of innovations              0.020
+Date:                Thu, 12 Nov 2020   AIC                          -3417.194
+Time:                        21:04:23   BIC                          -3376.338
+Sample:                             0   HQIC                         -3401.392
+                                                                              
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0013      0.001      1.917      0.055   -2.92e-05       0.003
+ar.L1.y        0.3321      0.415      0.800      0.424      -0.482       1.146
+ar.L2.y        0.0077      0.040      0.192      0.848      -0.071       0.086
+ar.L3.y       -0.0199      0.040     -0.496      0.620      -0.098       0.059
+ar.L4.y       -0.0355      0.040     -0.878      0.380      -0.115       0.044
+ar.L5.y        0.0391      0.043      0.898      0.369      -0.046       0.124
+ar.L6.y       -0.0798      0.038     -2.101      0.036      -0.154      -0.005
+ma.L1.y       -0.3371      0.416     -0.810      0.418      -1.153       0.478
+                                    Roots                                    
+=============================================================================
+                  Real          Imaginary           Modulus         Frequency
+-----------------------------------------------------------------------------
+AR.1           -1.2764           -0.8530j            1.5352           -0.4062
+AR.2           -1.2764           +0.8530j            1.5352            0.4062
+AR.3            1.2835           -0.6649j            1.4455           -0.0761
+AR.4            1.2835           +0.6649j            1.4455            0.0761
+AR.5            0.2377           -1.5774j            1.5952           -0.2262
+AR.6            0.2377           +1.5774j            1.5952            0.2262
+MA.1            2.9662           +0.0000j            2.9662            0.0000
+-----------------------------------------------------------------------------
+                              ARMA Model Results                              
+==============================================================================
+Dep. Variable:                      y   No. Observations:                  692
+Model:                     ARMA(6, 2)   Log Likelihood                2040.838
+Method:                       css-mle   S.D. of innovations              0.013
+Date:                Thu, 12 Nov 2020   AIC                          -4061.677
+Time:                        21:04:24   BIC                          -4016.281
+Sample:                             0   HQIC                         -4044.119
+                                                                              
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -0.0003      0.000     -0.674      0.500      -0.001       0.001
+ar.L1.y       -1.1128      0.195     -5.697      0.000      -1.496      -0.730
+ar.L2.y       -0.5865      0.181     -3.247      0.001      -0.940      -0.232
+ar.L3.y        0.1213      0.061      1.976      0.048       0.001       0.242
+ar.L4.y       -0.0825      0.061     -1.355      0.175      -0.202       0.037
+ar.L5.y       -0.2503      0.057     -4.368      0.000      -0.363      -0.138
+ar.L6.y       -0.1932      0.043     -4.458      0.000      -0.278      -0.108
+ma.L1.y        1.1632      0.198      5.869      0.000       0.775       1.552
+ma.L2.y        0.6829      0.186      3.675      0.000       0.319       1.047
+                                    Roots                                    
+=============================================================================
+                  Real          Imaginary           Modulus         Frequency
+-----------------------------------------------------------------------------
+AR.1            1.0999           -0.9268j            1.4383           -0.1114
+AR.2            1.0999           +0.9268j            1.4383            0.1114
+AR.3           -0.6622           -1.0150j            1.2119           -0.3420
+AR.4           -0.6622           +1.0150j            1.2119            0.3420
+AR.5           -1.0854           -0.7247j            1.3051           -0.4063
+AR.6           -1.0854           +0.7247j            1.3051            0.4063
+MA.1           -0.8516           -0.8597j            1.2101           -0.3743
+MA.2           -0.8516           +0.8597j            1.2101            0.3743
+-----------------------------------------------------------------------------
+                              ARMA Model Results                              
+==============================================================================
+Dep. Variable:                      y   No. Observations:                  692
+Model:                     ARMA(0, 1)   Log Likelihood                1557.754
+Method:                       css-mle   S.D. of innovations              0.025
+Date:                Thu, 12 Nov 2020   AIC                          -3109.507
+Time:                        21:04:24   BIC                          -3095.888
+Sample:                             0   HQIC                         -3104.240
+                                                                              
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0018      0.001      1.764      0.078      -0.000       0.004
+ma.L1.y        0.0321      0.038      0.852      0.394      -0.042       0.106
+                                    Roots                                    
+=============================================================================
+                  Real          Imaginary           Modulus         Frequency
+-----------------------------------------------------------------------------
+MA.1          -31.1135           +0.0000j           31.1135            0.5000
+-----------------------------------------------------------------------------
